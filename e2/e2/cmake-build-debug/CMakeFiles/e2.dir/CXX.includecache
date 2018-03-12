@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Daniel Cho/Documents/ECE4122/e2/e2/c2.cc
+
+C:/Users/Daniel Cho/Documents/ECE4122/e2/e2/e2.h
+
+C:/Users/Daniel Cho/Documents/ECE4122/e2/e2/main.cc
+iostream
+-
+vector
+-
+algorithm
+-
+chrono
+-
+random
+-
+thread
+-
+future
+-
+numeric
+-
+e2.h
+C:/Users/Daniel Cho/Documents/ECE4122/e2/e2/e2.h
+
